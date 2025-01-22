@@ -1,7 +1,8 @@
 ---
-title: "Rmarkdown_testfile"
-output: html_document
-date: "2025-01-22"
+title: "Something fascinating"
+author: "Jenny Bryan"
+date: "2025-01-21"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
